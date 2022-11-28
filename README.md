@@ -2,7 +2,7 @@
 
 ## Description
 
-This Webpage was set up initially using many non semantic elements. The final push is a modified version of both the HTML and CSS codes for improves semantics and accessability
+This webpage was set up initially using many non semantic elements. The final push is a modified version of both the HTML and CSS codes for improves semantics and accessability
 
 ## Installation
 
