@@ -66,8 +66,8 @@ a { /* Set list items link style */
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
-    background-repeat:no-repeat;
-    object-fit:cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
 }
 
 .content { /* Set main page below hero image formatting */
